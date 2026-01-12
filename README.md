@@ -6,7 +6,7 @@ This project demonstrates a basic setup of Tailwind CSS with a clean folder stru
 ---
 
 ## 📁 Project Structure
-
+```text
 WebProject/
 │
 ├── installtailwind/
